@@ -123,8 +123,4 @@ This project is part of my **Learn AI Automation** journey using n8n.
 ## 👩‍💻 Author
 
 Alina Zubair
----
-
-## 📜 License
-
-MIT License — feel free to use and modify!
+----
